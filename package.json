@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "node ./scripts/server.js"
+    "start": "node ./scripts/server.js"
+
   },
   "dependencies": {
     "@azure/event-hubs": "^2.1.1",
