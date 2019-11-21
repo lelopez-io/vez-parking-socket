@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./scripts/server.js"
+    "serve": "node ./server.js"
 
   },
   "dependencies": {
